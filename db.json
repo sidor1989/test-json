@@ -17,8 +17,8 @@
                             "video_title": "Introduction to Flutter!"
                         }
                     ]
-                },
-                {
+                 },
+                 {
                     "image_url": "https://i.pinimg.com/originals/ae/fe/3e/aefe3e43a77c719f6366cc3e66660b86.jpg",
                     "name": "Python",
                     "contents": [
@@ -35,6 +35,6 @@
                                         "video_title": "WHy learn Python?"
                                     }
                     ]
-                }
+                 }
                 ]
 }
