@@ -3,7 +3,8 @@
                 {
                     "image_url": "https://i.ytimg.com/vi/1ukSR1GRtMU/maxresdefault.jpg",
                     "name": "Dart",
-                    "contents": [
+                    "contents": 
+                    "list": {[
                         {
                             "title": "Introduction",
                             "description": "Dart is a client-optimized programming language for apps on multiple platforms. It is developed by Google and is used to build mobile, desktop, backend and web applications",
@@ -16,12 +17,13 @@
                             "video_url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
                             "video_title": "Introduction to Flutter!"
                         }
-                    ]
+                    ]}
                  },
                  {
                     "image_url": "https://i.pinimg.com/originals/ae/fe/3e/aefe3e43a77c719f6366cc3e66660b86.jpg",
                     "name": "Python",
-                    "contents": [
+                    "contents": 
+                     "list": {[
                                     {
                                         "title": "Introduction",
                                         "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991",
@@ -36,5 +38,5 @@
                                     }
                     ]
                  }
-                ]
+                ]}
 }
