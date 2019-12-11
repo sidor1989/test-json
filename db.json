@@ -40,6 +40,12 @@
             "description": "SQLite database is the de-facto and standard SQL based embedded database engine. It is small and time-tested database engine. sqflite package provides a lot of functionality to work efficiently with SQLite database. It provides standard methods to manipulate SQLite database engine. The core functionality provided by sqflite package is as follows −\nCreate / Open (openDatabase method) a SQLite database.\nExecute SQL statement (execute method) against SQLite database.\nAdvanced query methods (query method) to reduce to code required to query and get information from SQLite database.\nLet us create a product application to store and fetch product information from a standard SQLite database engine using sqflite package and understand the concept behind the SQLite database and sqflite package.\nCreate a new Flutter application in Android studio, product_sqlite_app.\nReplace the default startup code (main.dart) with our product_rest_app code.\nCopy the assets folder from product_nav_app to product_rest_app and add assets inside the *pubspec.yaml` file.",
             "video_url": "https://www.youtube.com/watch?v=1BwjNEKD8g8",
             "video_title": "Flutter - Database Concepts"
+          },
+          {
+            "title": "Flutter - Writing Advanced Applications",
+            "description": "In this chapter, we are going to learn how to write a full fledged mobile application, expense_calculator.The purpose of the expense_calculator is to store our expense information. The complete feature of the application is as follows −\n * Expense list.\n * Form to enter new expenses.\n * Option to edit / delete the existing expenses.\n * Total expenses at any instance.We are going to program the expense_calculator application using below mentioned advanced features of Flutter framework.\n * Advanced use of ListView to show the expense list.\n* Form programming.\n * SQLite database programming to store our expenses.\n * scoped_model state management to simplify our programming.\n\nLet us start programming the expense_calculator application.\n * Create a new Flutter application, expense_calculator in Android studio.\n * Open pubspec.yaml and add package dependencies ",
+            "video_url": "https://www.youtube.com/watch?v=FPcl1tu0gDs",
+            "video_title": "Flutter - Writing Advanced Applicaions"
           }
         ]
       }
