@@ -71,48 +71,6 @@
       }
     },
     {
-       "name":"Laravel",
-       "image_url":"https://cdn-media-1.freecodecamp.org/ghost/2019/05/laravel2-1.png",
-        "list": {
-          "contents": [
-            {
-              "title": "Intro to Laravel?",
-              "description": "Python is an easy language to learn",
-              "video_url": "https://www.youtube.com/watch?v=EU7PRmCpx-0",
-              "video_title": "WHy learn Python?"
-            }
-          ]
-        }
-    },
-    {
-       "name":"Swift",
-       "image_url":"https://www.9spl.com/blog/wp-content/uploads/2016/10/s-Swift-A-Unique-Programming-Language-for-iOS.jpg",
-      "list": {
-        "contents": [
-          {
-            "title": "Something about Swift!",
-            "description": "Python is an easy language to learn",
-            "video_url": "https://www.youtube.com/watch?v=ZabnyILXOUI",
-            "video_title": "WHy learn Python?"
-          }
-        ]
-      }
-    },
-    {
-       "name":"C#",
-       "image_url":"https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg"
-      "list": {
-        "contents": [
-          {
-            "title": "C# concepts!",
-            "description": "Python is an easy language to learn",
-            "video_url": "https://www.youtube.com/watch?v=2KHjrvNHIZc",
-            "video_title": "WHy learn Python?"
-          }
-        ]
-      }
-    },
-    {
        "name":"JavaScript",
        "image_url":"https://miro.medium.com/max/1200/1*ZQAVhhVVOJ24GWtN6skKxg.jpeg",
        "list": {
