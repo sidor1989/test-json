@@ -71,20 +71,6 @@
       }
     },
     {
-       "name":"Java",
-       "image_url":"https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg",
-       "list": {
-        "contents": [
-          {
-            "title": "Why Java?",
-            "description": "Python is an easy language to learn",
-            "video_url": "https://www.youtube.com/watch?v=hBh_CC5y8-s",
-            "video_title": "WHy learn Python?"
-          }
-        ]
-      }
-    },
-    {
        "name":"Laravel",
        "image_url":"https://cdn-media-1.freecodecamp.org/ghost/2019/05/laravel2-1.png",
         "list": {
