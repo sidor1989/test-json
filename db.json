@@ -69,6 +69,111 @@
           }
         ]
       }
+    },
+    {
+       "name":"Java",
+       "image_url":"https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg",
+       "list": {
+        "contents": [
+          {
+            "title": "Introduction",
+            "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991",
+            "video_url": "",
+            "video_title": "Introduction to Python!"
+          },
+          {
+            "title": "Why Java?",
+            "description": "Python is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=hBh_CC5y8-s",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+    },
+    {
+       "name":"Laravel",
+       "image_url":"https://cdn-media-1.freecodecamp.org/ghost/2019/05/laravel2-1.png",
+        "list": {
+          "contents": [
+            {
+              "title": "Intro to Laravel?",
+              "description": "Python is an easy language to learn",
+              "video_url": "https://www.youtube.com/watch?v=EU7PRmCpx-0",
+              "video_title": "WHy learn Python?"
+            }
+          ]
+        }
+    },
+    {
+       "name":"Swift",
+       "image_url":"https://www.9spl.com/blog/wp-content/uploads/2016/10/s-Swift-A-Unique-Programming-Language-for-iOS.jpg",
+      "list": {
+        "contents": [
+          {
+            "title": "Something about Swift!",
+            "description": "Python is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=ZabnyILXOUI",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+    },
+    {
+       "name":"C#",
+       "image_url":"https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg"
+      "list": {
+        "contents": [
+          {
+            "title": "C# concepts!",
+            "description": "Python is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=2KHjrvNHIZc",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+    },
+    {
+       "name":"JavaScript",
+       "image_url":"https://miro.medium.com/max/1200/1*ZQAVhhVVOJ24GWtN6skKxg.jpeg",
+       "list": {
+        "contents": [
+          {
+            "title": "What is JavaScript?",
+            "description": "JavaScript is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=VB7y0yxZjro",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+    },
+    {
+       "name":"Kotlin",
+       "image_url":"https://i.udemycdn.com/course/750x422/1294046_a057.jpg",
+       "list": {
+        "contents": [
+          {
+            "title": "Kotlin in Android ??",
+            "description": "JavaScript is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=7WVLyowTEZg",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+    },
+    {
+        "name":"Ruby",
+        "image_url":"https://www.creativepixelmag.com/wp-content/uploads/2019/09/ruby-1.jpg",
+        "list": {
+        "contents": [
+          {
+            "title": "What is JavaScript?",
+            "description": "JavaScript is an easy language to learn",
+            "video_url": "https://www.youtube.com/watch?v=5K74iLvxH0k",
+            "video_title": "WHy learn Python?"
+          }
+        ]
+      }
+
     }
   ]
 }
