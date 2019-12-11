@@ -99,7 +99,7 @@
       }
     },
     {
-      "image_url":"https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg"
+      "image_url":"https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg",
       "name":"C#",
       "list": {
         "contents": [
