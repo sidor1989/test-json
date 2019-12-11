@@ -40,12 +40,6 @@
             "description": "SQLite database is the de-facto and standard SQL based embedded database engine. It is small and time-tested database engine. sqflite package provides a lot of functionality to work efficiently with SQLite database. It provides standard methods to manipulate SQLite database engine. The core functionality provided by sqflite package is as follows −\nCreate / Open (openDatabase method) a SQLite database.\nExecute SQL statement (execute method) against SQLite database.\nAdvanced query methods (query method) to reduce to code required to query and get information from SQLite database.\nLet us create a product application to store and fetch product information from a standard SQLite database engine using sqflite package and understand the concept behind the SQLite database and sqflite package.\nCreate a new Flutter application in Android studio, product_sqlite_app.\nReplace the default startup code (main.dart) with our product_rest_app code.\nCopy the assets folder from product_nav_app to product_rest_app and add assets inside the *pubspec.yaml` file.",
             "video_url": "https://www.youtube.com/watch?v=1BwjNEKD8g8",
             "video_title": "Flutter - Database Concepts"
-          },
-          {
-            "title": "Flutter - Writing Advanced Applications",
-            "description": "In this chapter, we are going to learn how to write a full fledged mobile application, expense_calculator. ",
-            "video_url": "https://flutter.dev/create",
-            "video_title": "Flutter - Writing Advanced Applicaions"
           }
         ]
       }
