@@ -34,6 +34,24 @@
             "description": "Flutter provides http package to consume HTTP resources. http is a Future-based library and uses await and async features. It provides many high level methods and simplifies the development of REST based mobile applications.\n\nBasic Concepts:\nhttp package provides a high level class and http to do web requests.\nhttp class provides functionality to perform all types of HTTP requests.\nhttp methods accept a url, and additional information through Dart Map (post data, additional headers, etc.,). It requests the server and collects the response back in async/await pattern. For example, the below code reads the data from the specified url and print it in the console",
             "video_url": "https://www.youtube.com/watch?v=m7b7_Nq7XSs",
             "video_title": "Flutter - Accessing REST API"
+          },
+          {
+            "title": "Why Flutter?",
+            "description": "Why Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web",
+            "video_url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
+            "video_title": "Introduction to Flutter!"
+          },
+          {
+            "title": "Flutter - State Management",
+            "description": "Managing state in an application is one of the most important and necessary process in the life cycle of an application.\nLet us consider a simple shopping cart application.\nUser will login using their credentials into the application.\nOnce user is logged in, the application should persist the logged in user detail in all the screen.\nAgain, when the user selects a product and saved into a cart, the cart information should persist between the pages until the user checked out the cart.\nUser and their cart information at any instance is called the state of the application at that instance.\nA state management can be divided into two categories based on the duration the particular state lasts in an application.\nEphemeral − Last for a few seconds like the current state of an animation or a single page like current rating of a product. Flutter supports its through StatefulWidget.\napp state − Last for entire application like logged in user details, cart information, etc., Flutter supports its through scoped_model.",
+            "video_url": "https://www.youtube.com/watch?v=3tm-R7ymwhc",
+            "video_title": "Flutter - State Management"
+          },
+          {
+            "title": "Flutter - Accessing REST API",
+            "description": "Flutter provides http package to consume HTTP resources. http is a Future-based library and uses await and async features. It provides many high level methods and simplifies the development of REST based mobile applications.\n\nBasic Concepts:\nhttp package provides a high level class and http to do web requests.\nhttp class provides functionality to perform all types of HTTP requests.\nhttp methods accept a url, and additional information through Dart Map (post data, additional headers, etc.,). It requests the server and collects the response back in async/await pattern. For example, the below code reads the data from the specified url and print it in the console",
+            "video_url": "https://www.youtube.com/watch?v=m7b7_Nq7XSs",
+            "video_title": "Flutter - Accessing REST API"
           }
         ]
       }
