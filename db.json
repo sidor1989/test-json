@@ -76,12 +76,6 @@
        "list": {
         "contents": [
           {
-            "title": "Introduction",
-            "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991",
-            "video_url": "",
-            "video_title": "Introduction to Python!"
-          },
-          {
             "title": "Why Java?",
             "description": "Python is an easy language to learn",
             "video_url": "https://www.youtube.com/watch?v=hBh_CC5y8-s",
