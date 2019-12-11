@@ -22,6 +22,12 @@
             "description": "Why Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web",
             "video_url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
             "video_title": "Introduction to Flutter!"
+          },
+          {
+            "title": "Flutter - State Management",
+            "description": "Managing state in an application is one of the most important and necessary process in the life cycle of an application.\nLet us consider a simple shopping cart application.\nUser will login using their credentials into the application.\nOnce user is logged in, the application should persist the logged in user detail in all the screen.\nAgain, when the user selects a product and saved into a cart, the cart information should persist between the pages until the user checked out the cart.\nUser and their cart information at any instance is called the state of the application at that instance.\nA state management can be divided into two categories based on the duration the particular state lasts in an application.\nEphemeral − Last for a few seconds like the current state of an animation or a single page like current rating of a product. Flutter supports its through StatefulWidget.\napp state − Last for entire application like logged in user details, cart information, etc., Flutter supports its through scoped_model.",
+            "video_url": "https://www.youtube.com/watch?v=3tm-R7ymwhc",
+            "video_title": "Flutter - State Management"
           }
         ]
       }
