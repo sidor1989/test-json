@@ -43,7 +43,7 @@
           },
           {
             "title": "Flutter - Writing Advanced Applications",
-            "description": "In this chapter, we are going to learn how to write a full fledged mobile application, expense_calculator. The purpose of the expense_calculator is to store our expense information. The complete feature of the application is as follows −\n * Expense list.\n * Form to enter new expenses.\n * Option to edit / delete the existing expenses.\n * Total expenses at any instance.We are going to program the expense_calculator application using below mentioned advanced features of Flutter framework.\n * Advanced use of ListView to show the expense list.\n* Form programming.\n * SQLite database programming to store our expenses.\n * scoped_model state management to simplify our programming.\n\nLet us start programming the expense_calculator application.\n * Create a new Flutter application, expense_calculator in Android studio.\n * Open pubspec.yaml and add package dependencies..",
+            "description": "In this chapter, we are going to learn how to write a full fledged mobile application, expense_calculator. ",
             "video_url": "https://flutter.dev/create",
             "video_title": "Flutter - Writing Advanced Applicaions"
           }
