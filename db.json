@@ -154,20 +154,5 @@
         ]
       }
     },
-    {
-        "name":"Ruby",
-        "image_url":"https://www.creativepixelmag.com/wp-content/uploads/2019/09/ruby-1.jpg",
-        "list": {
-        "contents": [
-          {
-            "title": "What is JavaScript?",
-            "description": "JavaScript is an easy language to learn",
-            "video_url": "https://www.youtube.com/watch?v=5K74iLvxH0k",
-            "video_title": "WHy learn Python?"
-          }
-        ]
-      }
-
-    }
   ]
 }
