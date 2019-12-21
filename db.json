@@ -7,43 +7,49 @@
       "list": {
         "contents": [
           {
-            "id": 1,
+            "_id": 1,
             "title": "Introduction",
             "description": "Dart is a client-optimized programming language for apps on multiple platforms. It is developed by Google and is used to build mobile, desktop, backend and web applications",
             "video_url": "https://www.youtube.com/watch?v=5KlnlCq2M5Q",
             "video_title": "Introduction to Dart"
           },
           {
+            "_id": 2,
             "title": "Starting with Flutter",
             "description": "Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web",
             "video_url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
             "video_title": "Introduction to Flutter!"
           },
           {
+            "_id": 3,
             "title": "Why Flutter?",
             "description": "Why Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web",
             "video_url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
             "video_title": "Introduction to Flutter!"
           },
           {
+            "_id": 4,
             "title": "Flutter - State Management",
             "description": "Managing state in an application is one of the most important and necessary process in the life cycle of an application.\nLet us consider a simple shopping cart application.\nUser will login using their credentials into the application.\nOnce user is logged in, the application should persist the logged in user detail in all the screen.\nAgain, when the user selects a product and saved into a cart, the cart information should persist between the pages until the user checked out the cart.\nUser and their cart information at any instance is called the state of the application at that instance.\nA state management can be divided into two categories based on the duration the particular state lasts in an application.\nEphemeral − Last for a few seconds like the current state of an animation or a single page like current rating of a product. Flutter supports its through StatefulWidget.\napp state − Last for entire application like logged in user details, cart information, etc., Flutter supports its through scoped_model.",
             "video_url": "https://www.youtube.com/watch?v=3tm-R7ymwhc",
             "video_title": "Flutter - State Management"
           },
           {
+            "_id": 5,
             "title": "Flutter - Accessing REST API",
             "description": "Flutter provides http package to consume HTTP resources. http is a Future-based library and uses await and async features. It provides many high level methods and simplifies the development of REST based mobile applications.\n\nBasic Concepts:\nhttp package provides a high level class and http to do web requests.\nhttp class provides functionality to perform all types of HTTP requests.\nhttp methods accept a url, and additional information through Dart Map (post data, additional headers, etc.,). It requests the server and collects the response back in async/await pattern. For example, the below code reads the data from the specified url and print it in the console",
             "video_url": "https://www.youtube.com/watch?v=m7b7_Nq7XSs",
             "video_title": "Flutter - Accessing REST API"
           },
           {
+            "_id": 6,
             "title": "Flutter - Database Concepts",
             "description": "SQLite database is the de-facto and standard SQL based embedded database engine. It is small and time-tested database engine. sqflite package provides a lot of functionality to work efficiently with SQLite database. It provides standard methods to manipulate SQLite database engine. The core functionality provided by sqflite package is as follows −\nCreate / Open (openDatabase method) a SQLite database.\nExecute SQL statement (execute method) against SQLite database.\nAdvanced query methods (query method) to reduce to code required to query and get information from SQLite database.\nLet us create a product application to store and fetch product information from a standard SQLite database engine using sqflite package and understand the concept behind the SQLite database and sqflite package.\nCreate a new Flutter application in Android studio, product_sqlite_app.\nReplace the default startup code (main.dart) with our product_rest_app code.\nCopy the assets folder from product_nav_app to product_rest_app and add assets inside the *pubspec.yaml` file.",
             "video_url": "https://www.youtube.com/watch?v=1BwjNEKD8g8",
             "video_title": "Flutter - Database Concepts"
           },
           {
+            "_id": 7,
             "title": "Flutter - Writing Advanced Applications",
             "description": "In this chapter, we are going to learn how to write a full fledged mobile application, expense_calculator.The purpose of the expense_calculator is to store our expense information. The complete feature of the application is as follows −\n * Expense list.\n * Form to enter new expenses.\n * Option to edit / delete the existing expenses.\n * Total expenses at any instance.We are going to program the expense_calculator application using below mentioned advanced features of Flutter framework.\n * Advanced use of ListView to show the expense list.\n* Form programming.\n * SQLite database programming to store our expenses.\n * scoped_model state management to simplify our programming.\n\nLet us start programming the expense_calculator application.\n * Create a new Flutter application, expense_calculator in Android studio.\n * Open pubspec.yaml and add package dependencies ",
             "video_url": "https://www.youtube.com/watch?v=FPcl1tu0gDs",
