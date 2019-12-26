@@ -3,12 +3,12 @@
     {
       "id": 1,
       "image_url": "https://i.ytimg.com/vi/5F-6n_2XWR8/maxresdefault.jpg",
-      "name": "Dart",
+      "name": "Dart"
     },
     {
       "id": 2,
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BAWmPkNu8W6-dDqEwisCjlJu42v1AKOWbetwXQaMFON0hh-5&s",
-      "name": "Python",
+      "name": "Python"
     },
     {
       "id": 3,
@@ -18,22 +18,22 @@
     {
       "id": 4,
       "image_url": "https://www.9spl.com/blog/wp-content/uploads/2016/10/s-Swift-A-Unique-Programming-Language-for-iOS.jpg",
-      "name": "Swift",
+      "name": "Swift"
     },
     {
       "id": 5,
       "image_url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg",
-      "name": "C#",
+      "name": "C#"
     },
     {
       "id": 6,
       "image_url": "https://miro.medium.com/max/1200/1*ZQAVhhVVOJ24GWtN6skKxg.jpeg",
-      "name": "JavaScript",
+      "name": "JavaScript"
     },
     {
       "id": 7,
       "image_url": "https://i.udemycdn.com/course/750x422/1294046_a057.jpg",
-      "name": "Kotlin",
+      "name": "Kotlin"
     }
   ]
 }
