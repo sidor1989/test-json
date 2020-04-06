@@ -1,39 +1,41 @@
 {
-  "language": [
-    {
-      "id": 1,
-      "image_url": "https://i.ytimg.com/vi/5F-6n_2XWR8/maxresdefault.jpg",
-      "name": "Dart"
-    },
-    {
-      "id": 2,
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BAWmPkNu8W6-dDqEwisCjlJu42v1AKOWbetwXQaMFON0hh-5&s",
-      "name": "Python"
-    },
-    {
-      "id": 3,
-      "image_url": "https://cdn-media-1.freecodecamp.org/ghost/2019/05/laravel2-1.png",
-      "name": "Laravel"
-    },
-    {
-      "id": 4,
-      "image_url": "https://www.9spl.com/blog/wp-content/uploads/2016/10/s-Swift-A-Unique-Programming-Language-for-iOS.jpg",
-      "name": "Swift"
-    },
-    {
-      "id": 5,
-      "image_url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyRqxYGQ/sizes/ctraining_resize_md.jpg",
-      "name": "C#"
-    },
-    {
-      "id": 6,
-      "image_url": "https://miro.medium.com/max/1200/1*ZQAVhhVVOJ24GWtN6skKxg.jpeg",
-      "name": "JavaScript"
-    },
-    {
-      "id": 7,
-      "image_url": "https://i.udemycdn.com/course/750x422/1294046_a057.jpg",
-      "name": "Kotlin"
-    }
-  ]
+  "products": [
+  {
+    "id": 1,
+    "name": "Cycle",
+    "image_url": "https://images7.alphacoders.com/345/thumb-1920-345366.jpg",
+    "price": "30"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "image_url": "https://images.pexels.com/photos/4031818/pexels-photo-4031818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "price": "80000"
+  },
+  {
+    "id": 3,
+    "name": "Sports Cycle",
+    "image_url": "https://wallpaperplay.com/walls/full/6/9/2/60355.jpg",
+    "price": "35"
+  },
+  {
+    "id": 4,
+    "name": "Racing Cycle",
+    "image_url": "https://wallpaperplay.com/walls/full/8/6/2/60358.jpg",
+    "price": "34"
+  },
+  {
+    "id": 5,
+    "name": "Honda",
+    "image_url": "https://wallpaperplay.com/walls/full/c/5/f/60375.jpg",
+    "price": "28"
+  },
+  {
+    "id": 6,
+    "name": "Honda",
+    "image_url": "https://wallpaperplay.com/walls/full/d/f/1/60394.jpg",
+    "price": "4500"
+  }
+]
+
 }
