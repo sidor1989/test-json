@@ -1,0 +1,213 @@
+{
+	"tabs": [
+		{
+			"title": "Оформление договора ВЗР",
+			"name": "ВЗР",
+			"blocks": [
+				{
+					"idBlock": "shortInfo",
+					"title": "HEADER",
+					"fields": [
+						{
+							"title": "PRODUCT_ID",
+							"value": "366",
+							"type": "TEXT",
+							"name": "PRODUCT_ID"
+						},
+						{
+							"title": "PREMIUM",
+							"value": "2087.61",
+							"type": "TEXT",
+							"name": "PREMIUM"
+						},
+						{
+							"title": "CONTRACT_ID",
+							"value": "105939707",
+							"type": "TEXT",
+							"name": "CONTRACT_ID"
+						},
+						{
+							"title": "CONTRACT_NUMBER",
+							"value": "GVA-0344002657217",
+							"type": "TEXT",
+							"name": "CONTRACT_NUMBER"
+						}
+					]
+				},
+				{
+					"idBlock": "fullInfo",
+					"title": "Предмет договора",
+					"description": "Общая информация о договоре",
+					"fields": [
+						{
+							"title": "Территория страхования",
+							"value": "Шенген",
+							"type": "TEXT",
+							"name": "Территория страхования"
+						},
+						{
+							"title": "Страховой продукт",
+							"value": "Страхование путешествующих",
+							"type": "TEXT",
+							"name": "Страховой продукт"
+						},
+						{
+							"title": "Срок оплаты",
+							"value": "23:59 (Мск) 22.12.2020",
+							"type": "TEXT",
+							"name": "Срок оплаты"
+						},
+						{
+							"title": "Срок страхования",
+							"value": "18.02.2021 — 13.03.2021",
+							"type": "TEXT",
+							"name": "Срок страхования"
+						},
+						{
+							"title": "Предмет платежа",
+							"value": "Оплата договора ВЗР GVA-0344002657217",
+							"type": "TEXT",
+							"name": "Предмет платежа"
+						}
+					]
+				},
+				{
+					"idBlock": "insured",
+					"title": "Застрахованные (участники поездки)",
+					"description": "Список застрахованных по договору",
+					"fields": [
+						[
+							{
+								"title": "Застрахованный 1",
+								"value": "",
+								"type": "TEXT",
+								"name": "Застрахованный 1"
+							},
+							{
+								"title": "SUBJECT_ID",
+								"value": "513377078",
+								"type": "TEXT",
+								"name": "SUBJECT_ID"
+							},
+							{
+								"title": "lastName",
+								"value": "TESTOVICH",
+								"type": "TEXT",
+								"name": "Фамилия"
+							},
+							{
+								"title": "firstName",
+								"value": "SASHA",
+								"type": "TEXT",
+								"name": "Имя"
+							},
+							{
+								"title": "Дата рождения",
+								"value": "01.01.2000",
+								"type": "TEXT",
+								"name": "Дата рождения"
+							}
+						],
+						[
+							{
+								"title": "Застрахованный 2",
+								"value": "",
+								"type": "TEXT",
+								"name": "Застрахованный 2"
+							},
+							{
+								"title": "SUBJECT_ID",
+								"value": "513375555",
+								"type": "TEXT",
+								"name": "SUBJECT_ID"
+							},
+							{
+								"title": "lastName",
+								"value": "IVANOV",
+								"type": "TEXT",
+								"name": "Фамилия"
+							},
+							{
+								"title": "firstName",
+								"value": "IGOR",
+								"type": "TEXT",
+								"name": "Имя"
+							},
+							{
+								"title": "Дата рождения",
+								"value": "19.11.1967",
+								"type": "TEXT",
+								"name": "Дата рождения"
+							}
+						]
+					]
+				},
+				{
+					"idBlock": "contacts",
+					"title": "Контактные данные",
+					"description": "Список контактов страхователя",
+					"fields": [
+						{
+							"title": "Телефон",
+							"value": "+79264118675",
+							"type": "TEXT",
+							"name": "Телефон"
+						},
+						{
+							"title": "email",
+							"value": "sturchakaa@alfastrah.ru",
+							"type": "TEXT",
+							"name": "email"
+						}
+					]
+				},
+				{
+					"idBlock": "terms",
+					"title": "Условия договора страхования",
+					"description": "Информация об условиях страхования",
+					"fields": [
+						{
+							"title": "Медицинские расходы",
+							"value": "35 000 EUR",
+							"type": "TEXT",
+							"name": "Медицинские расходы"
+						},
+						{
+							"title": "Страхователь",
+							"value": "IVANOV IVAN ",
+							"type": "TEXT",
+							"name": "Страхователь"
+						}
+					]
+				},
+				{
+					"idBlock": "documentation",
+					"title": "Документы",
+					"description": "Список документов по договору",
+					"fields": [
+						{
+							"title": "InsuranceRules",
+							"value": "1",
+							"type": "TEXT",
+							"name": "Правила страхования",
+							"url": "https://alfastrah.ru/docs/Prav_VZR_1.pdf"
+						},
+						{
+							"title": "InsurancePolicy",
+							"value": "1",
+							"type": "TEXT",
+							"name": "Страховой полис",
+							"docId": "616"
+						}
+					]
+				},
+				{
+					"idBlock": "crossSale",
+					"title": "Улучшите ваш полис",
+					"description": "Список документов по договору",
+					"fields": []
+				}
+			]
+		}
+	]
+}
